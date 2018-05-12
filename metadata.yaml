@@ -1,0 +1,39 @@
+_repo: May-Dayand-Other-Pieces_15963
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Emerson, Ralph Waldo
+    aliases:
+    - Emerson, Waldo
+    - Emerson, R. Waldo (Ralph Waldo)
+    - Emerson, R. W. (Ralph Waldo)
+    birthdate: 1803
+    deathdate: 1882
+    gutenberg_agent_id: '1071'
+    url: http://www.gutenberg.org/2009/agents/1071
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
+description: ''
+gutenberg_issued: '2005-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15963'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+tableOfContents: 'May-day -- The Adirondacs -- Occasional and miscellaneous pieces:
+  Brahma. Nemesis. Fate. Freedom. Ode sung in the Town hall, Concord, July 4, 1857.
+  Boston hymn. Voluntaries. Love and thought. Lover''s petition. Una. Letters. Rubies.
+  Merlin''s song. The test. Solution -- Nature and life: Nature. The Romany girl.
+  Days. The Chartist''s complaint. My Garden. The titmouse. Sea-shore. Song of nature.
+  Two rivers. Waldeinsamkeit. Terminus. The past. The last farewell. In memoriam --
+  Elements: Experience. Compensation. Politics. Heroism. Character. Culture. Friendship.
+  Beauty. Manners. Art. Spiritual laws. Unity. Worship -- Quatrains -- Translations.'
+title: May-Day, and Other Pieces
+url: http://www.gutenberg.org/ebooks/15963
